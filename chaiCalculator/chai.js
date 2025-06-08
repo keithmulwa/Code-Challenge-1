@@ -20,4 +20,4 @@ function calculateChaiIngredients(numberOfCups) {
     console.log("");
     console.log("Enjoy your Chai Bora !");
 }
-
+calculateChaiIngredients(numberOfCups);
